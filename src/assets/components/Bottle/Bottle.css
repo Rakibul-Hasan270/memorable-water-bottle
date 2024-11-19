@@ -4,8 +4,15 @@
     margin: 10px;
     border-radius: 15px;
     background: skyblue;
+    text-align: center;
 }
 .bottle img {
     width: 250px;
     border-radius: 10px;
+}
+.btn{
+    padding: 10px;
+    background: seagreen;
+    color: aliceblue;
+    margin-top: 10px;
 }

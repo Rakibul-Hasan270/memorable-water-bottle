@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Memorable Water Bottle</h1> 
+      <h1 style={{textAlign:'center'}}>Memorable Water Bottle</h1> 
       <Bottles></Bottles>
     </>
   )
